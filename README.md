@@ -148,3 +148,4 @@ Incluye compilación y ejecución de pruebas JUnit. Si tienes análisis estátic
 Este laboratorio es una adaptación modernizada del ejercicio **SnakeRace** de ARSW. El enunciado de actividades se conserva para mantener los objetivos pedagógicos del curso.
 
 **Base construida por el Ing. Javier Toquica.**
+.
