@@ -3,6 +3,8 @@
 **Escuela Colombiana de Ingeniería – Arquitecturas de Software**  
 Laboratorio de programación concurrente: condiciones de carrera, sincronización y colecciones seguras.
 
+
+Fabian Andrade / Juan Diego Melo
 ---
 
 ## Requisitos
